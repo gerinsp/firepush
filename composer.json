@@ -1,10 +1,10 @@
 {
-    "name": "sena/firepush",
+    "name": "gerinsp/firepush",
     "description": "package to do push notifications to FCM(Firebase Cloud Messaging)",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Sena\\Firepush\\": "src/"
+            "Gsp\\Firepush\\": "src/"
         }
     },
     "authors": [

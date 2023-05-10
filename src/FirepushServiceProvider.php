@@ -1,6 +1,6 @@
 <?php
 
-namespace Sena\Firepush;
+namespace Gsp\Firepush;
 
 use Illuminate\Support\ServiceProvider;
 
