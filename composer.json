@@ -1,0 +1,19 @@
+{
+    "name": "gsp/firepush",
+    "version": "1.0.0",
+    "description": "package to do push notifications to FCM(Firebase Cloud Messaging)",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Gsp\\Firepush\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gerinsp",
+            "email": "denapratama7@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
