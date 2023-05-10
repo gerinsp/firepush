@@ -1,6 +1,6 @@
 <?php
 
-namespace Gsp\Firepush;
+namespace Sena\Firepush;
 
 class PushNotification
 {
