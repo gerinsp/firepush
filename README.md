@@ -1,7 +1,7 @@
 # Firepush
 A Laravel package for push notification to the FCM (Firebase Cloud Messaging)
 
-Package ini telah di upload di Packagist, anda bisa mengeunjunginya pada link berikut: [packagist.org](https://packagist.org/packages/gerinsp/firepush#v1.0.0)
+Package ini telah di upload di Packagist, anda bisa mengeunjunginya pada link berikut: [packagist.org](https://packagist.org/packages/gerinsp/firepush)
 
 ## Cara Install
 
